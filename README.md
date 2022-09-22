@@ -4,6 +4,7 @@ En este repositorio se aplican conceptos básicos del lenguaje de programación 
 - Funciones
 - Bucles
 - Condicionales
+- Porciones
 - Mapas o diccionarios
 
 ## Funcionamiento
